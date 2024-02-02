@@ -79,10 +79,10 @@ to_date (DATE): End date of the job title
 
 --
 Here are some example queries you can run on the database:
-sql
+sql-->
 SELECT * FROM table_name WHERE condition;
 
-sql
+sql-->
 SELECT column1, column2 FROM table_name WHERE condition;
 
 --
